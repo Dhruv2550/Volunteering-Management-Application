@@ -1,0 +1,1 @@
+A management system that provides users with the ability to add and manage numerous activities, volunteers, and supervisors, as well as, take daily attendance and log hours which are automatically stored on an excel sheet and displayed within the application.
